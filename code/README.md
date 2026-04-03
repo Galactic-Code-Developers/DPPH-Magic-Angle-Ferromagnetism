@@ -18,7 +18,7 @@ The scripts in this folder replace the original HTML/JavaScript visualization wi
 
 ```bash
 magic_angle_helical_field_visualization.py
-
+```
 Generates a 3D visualization of the helical magnetic field inside the cavity.
 
 Features:
@@ -29,9 +29,9 @@ Cavity boundary visualization
 Publication-ready figure output
 
 Run:
-
+```
 python magic_angle_helical_field_visualization.py
-
+```
 Output:
 
 magic_angle_helical_field_visualization.png
