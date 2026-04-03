@@ -28,21 +28,29 @@ Hellenic Mediterranean University, Chania, Greece
 
 ## Repository Structure
 
+## Repository Structure
 
+```text
+dpph-magic-angle-ferromagnetism/
+│
 ├── main.tex
 ├── paper.pdf
+│
 ├── figures/
-├── fig1.png
-├── fig2.jpg
-─ fig3.jpg
-│ └── ...
+│   ├── fig1.png
+│   ├── fig2.jpg
+│   ├── fig3.jpg
+│   └── ...
+│
 ├── data/
-│ ├── raw_measurements.csv
-│ └── processed_data.csv
+│   ├── raw_measurements.csv
+│   └── processed_data.csv
+│
 ├── supplementary/
-│ ├── appendix_I.pdf
-│ ├── appendix_II.pdf
-│ └── ...
+│   ├── appendix_I.pdf
+│   ├── appendix_II.pdf
+│   └── ...
+│
 ├── README.md
 ├── LICENSE
 └── CITATION.cff
