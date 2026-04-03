@@ -18,9 +18,13 @@ This repository contains the full LaTeX manuscript, figures, experimental data, 
 - Iraklis Rigakis  
 - Emmanuel Antoniadakis  
 
-Affiliation:  
-School of Engineering, Department of Electronic Engineering, Computer Technology Informatics & Electronic Devices Laboratory, \\ Hellenic Mediterranean University, Chania, Greece
+## Affiliation
 
+School of Engineering  
+Department of Electronic Engineering  
+Computer Technology Informatics & Electronic Devices Laboratory  
+Hellenic Mediterranean University  
+Chania, Greece
 ---
 
 ## Repository Structure
