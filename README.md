@@ -72,7 +72,9 @@ A Zenodo DOI will be generated upon release for long-term archival and citation.
 ---
 
 ### Code
+
 - `code/python_visualization/magic_angle_helical_field_visualization.py` — Python script for reproducing the helical magnetic field visualization
+- `code/python_visualization/magic_angle_helical_field_data_export.py` — Python script for exporting helical field line and magnetic field vector data to CSV for plotting and supplementary analysis
 
 ---
 
