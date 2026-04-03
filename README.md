@@ -1,4 +1,13 @@
+# Ferromagnetic Phase Transition of DPPH Induced by a Helical Magnetic Field
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.YOUR_DOI.svg)](https://doi.org/10.5281/zenodo.YOUR_DOI)
+[![Build PDF](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/latex.yml/badge.svg)](https://github.com/YOUR_USERNAME/YOUR_REPO/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![GitHub release](https://img.shields.io/github/v/release/YOUR_USERNAME/YOUR_REPO)](https://github.com/YOUR_USERNAME/YOUR_REPO/releases)
+[![Last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_REPO)](https://github.com/YOUR_USERNAME/YOUR_REPO/commits)
+
 This repository contains the full LaTeX manuscript, figures, experimental data, and supplementary material for the study:
+
 
 **Ferromagnetic Phase Transition of DPPH Induced by a Helical Magnetic Field**
 
@@ -20,13 +29,12 @@ Hellenic Mediterranean University, Chania, Greece
 ## Repository Structure
 
 
-.
 ├── main.tex
 ├── paper.pdf
 ├── figures/
-│ ├── fig1.png
-│ ├── fig2.jpg
-│ ├── fig3.jpg
+├── fig1.png
+├── fig2.jpg
+─ fig3.jpg
 │ └── ...
 ├── data/
 │ ├── raw_measurements.csv
