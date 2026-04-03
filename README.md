@@ -1,11 +1,9 @@
 # Ferromagnetic Phase Transition of DPPH Induced by a Helical Magnetic Field
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.YOUR_DOI.svg)](https://doi.org/10.5281/zenodo.YOUR_DOI)
-[![Build PDF](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/latex.yml/badge.svg)](https://github.com/YOUR_USERNAME/YOUR_REPO/actions)
+[![Build PDF](https://github.com/Galactic-Code-Developers/DPPH-Magic-Angle-Ferromagnetism/actions/workflows/latex.yml/badge.svg)](https://github.com/Galactic-Code-Developers/DPPH-Magic-Angle-Ferromagnetism/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub release](https://img.shields.io/github/v/release/YOUR_USERNAME/YOUR_REPO)](https://github.com/YOUR_USERNAME/YOUR_REPO/releases)
-[![Last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_REPO)](https://github.com/YOUR_USERNAME/YOUR_REPO/commits)
-
+[![GitHub release](https://img.shields.io/github/v/release/Galactic-Code-Developers/DPPH-Magic-Angle-Ferromagnetism)](https://github.com/Galactic-Code-Developers/DPPH-Magic-Angle-Ferromagnetism/releases)
+[![Last commit](https://img.shields.io/github/last-commit/Galactic-Code-Developers/DPPH-Magic-Angle-Ferromagnetism)](https://github.com/Galactic-Code-Developers/DPPH-Magic-Angle-Ferromagnetism/commits)
 This repository contains the full LaTeX manuscript, figures, experimental data, and supplementary material for the study:
 
 
@@ -25,8 +23,6 @@ School of Engineering, Department of Electronic Engineering, Computer Technology
 Hellenic Mediterranean University, Chania, Greece
 
 ---
-
-## Repository Structure
 
 ## Repository Structure
 
