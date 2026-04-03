@@ -71,6 +71,11 @@ A Zenodo DOI will be generated upon release for long-term archival and citation.
 
 ---
 
+### Code
+- `code/python_visualization/magic_angle_helical_field_visualization.py` — Python script for reproducing the helical magnetic field visualization
+
+---
+
 ## Citation
 
 Please cite this work using the metadata in `CITATION.cff` or the Zenodo DOI (once available).
