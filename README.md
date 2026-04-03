@@ -50,7 +50,7 @@ dpph-magic-angle-ferromagnetism/
 ├── README.md
 ├── LICENSE
 └── CITATION.cff
-`
+```
 
 ---
 
