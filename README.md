@@ -38,8 +38,6 @@ The repository is structured to ensure full reproducibility of the reported resu
 ```
 DPPH-Magic-Angle-Ferromagnetism/
 │
-├── main.tex
-├── paper.pdf
 │
 ├── figures/
 ├── data/
