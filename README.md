@@ -35,7 +35,7 @@ The repository is structured to ensure full reproducibility of the reported resu
 ---
 
 ## Repository Structure
-
+```
 DPPH-Magic-Angle-Ferromagnetism/
 │
 ├── main.tex
@@ -50,7 +50,7 @@ DPPH-Magic-Angle-Ferromagnetism/
 ├── README.md
 ├── LICENSE
 └── CITATION.cff
-
+```
 ---
 
 ## Reproducibility
