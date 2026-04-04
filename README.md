@@ -1,8 +1,8 @@
 # Ferromagnetic Phase Transition of DPPH Induced by a Helical Magnetic Field
 
-[![Build PDF](https://github.com/Galactic-Code-Developers/DPPH-Magic-Angle-Ferromagnetism/actions/workflows/latex.yml/badge.svg)](https://github.com/Galactic-Code-Developers/DPPH-Magic-Angle-Ferromagnetism/actions)
-[![Last commit](https://img.shields.io/github/last-commit/Galactic-Code-Developers/DPPH-Magic-Angle-Ferromagnetism)](https://github.com/Galactic-Code-Developers/DPPH-Magic-Angle-Ferromagnetism/commits)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![GitHub release](https://img.shields.io/github/v/release/Galactic-Code-Developers/DPPH-Magic-Angle-Ferromagnetism)](https://github.com/Galactic-Code-Developers/DPPH-Magic-Angle-Ferromagnetism/releases)
+[![Last commit](https://img.shields.io/github/last-commit/Galactic-Code-Developers/DPPH-Magic-Angle-Ferromagnetism)](https://github.com/Galactic-Code-Developers/DPPH-Magic-Angle-Ferromagnetism/commits)
 
 ---
 
