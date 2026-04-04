@@ -1,0 +1,53 @@
+{
+  "title": "Ferromagnetic Phase Transition of DPPH Induced by a Helical Magnetic Field",
+  "upload_type": "publication",
+  "publication_type": "article",
+
+  "creators": [
+    {
+      "name": "Markoulakis, Emmanouil",
+      "affiliation": "Hellenic Mediterranean University"
+    },
+    {
+      "name": "Chatzakis, John",
+      "affiliation": "Hellenic Mediterranean University"
+    },
+    {
+      "name": "Konstantaras, Antonios",
+      "affiliation": "Hellenic Mediterranean University"
+    },
+    {
+      "name": "Rigakis, Iraklis",
+      "affiliation": "Hellenic Mediterranean University"
+    },
+    {
+      "name": "Antoniadakis, Emmanuel",
+      "affiliation": "Hellenic Mediterranean University"
+    }
+  ],
+
+  "description": "This repository contains the LaTeX manuscript, experimental data, CAD designs, and Python simulation code supporting the study of a ferromagnetic phase transition in DPPH induced by a helical magnetic field at the magic angle.",
+
+  "keywords": [
+    "ferromagnetism",
+    "DPPH",
+    "paramagnetism",
+    "magic angle",
+    "spin alignment",
+    "helical magnetic field",
+    "EPR",
+    "quantum spin control"
+  ],
+
+  "license": "MIT",
+
+  "access_right": "open",
+
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Galactic-Code-Developers/DPPH-Magic-Angle-Ferromagnetism",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
