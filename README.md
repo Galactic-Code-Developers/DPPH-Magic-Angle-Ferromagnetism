@@ -6,9 +6,8 @@
 
 ---
 
-# Data Descriptor
-
 ## Title
+
 **Ferromagnetic Phase Transition of DPPH Induced by a Helical Magnetic Field**
 
 ---
@@ -23,7 +22,7 @@ Emmanuel Antoniadakis
 
 ---
 
-## Affiliation
+## Affiliations
 
 School of Engineering  
 Department of Electronic Engineering, Computer Technology Informatics & Electronic Devices Laboratory  
@@ -34,27 +33,37 @@ Chania, Greece
 
 ## Abstract
 
-This repository provides the complete experimental, computational, and structural dataset associated with the investigation of magnetic behavior in DPPH under a helical magnetic field configuration at the magic angle (~54.74°).
+This repository contains the complete experimental, computational, and structural dataset associated with the study:
 
-The dataset documents a reproducible deviation from conventional paramagnetic response, indicating the emergence of weak ferromagnetic characteristics under controlled field geometry.
+**“Ferromagnetic Phase Transition of DPPH Induced by a Helical Magnetic Field”**
 
-All components required for independent verification—including raw measurements, processed data, simulation code, and apparatus design—are included.
-
----
-
-## Data Records
-
-data/
-├── raw_measurements.csv  
-├── processed_data.csv  
+The dataset documents an anomalous magnetic response in DPPH under a helical magnetic field configuration at the magic angle (~54.74°), indicating a transition toward weak ferromagnetism.
 
 ---
 
-## Code Availability
+## Version
 
-code/python_visualization/  
-├── magic_angle_helical_field_visualization.py  
-├── magic_angle_helical_field_data_export.py  
+- Version: 1.0  
+- Release Date: 2026-04-04  
+- DOI: https://doi.org/10.5281/zenodo.19413155  
+
+---
+
+## Repository Structure
+
+```
+DPPH-Magic-Angle-Ferromagnetism/
+├── figures/
+├── data/
+├── supplementary/
+├── cad/
+├── code/
+├── main.tex
+├── paper.pdf
+├── README.md
+├── LICENSE
+├── CITATION.cff
+```
 
 ---
 
