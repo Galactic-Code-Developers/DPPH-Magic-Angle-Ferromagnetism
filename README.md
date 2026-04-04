@@ -1,8 +1,15 @@
 # Ferromagnetic Phase Transition of DPPH Induced by a Helical Magnetic Field
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19413155.svg)](https://doi.org/10.5281/zenodo.19413155)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
 [![GitHub release](https://img.shields.io/github/v/release/Galactic-Code-Developers/DPPH-Magic-Angle-Ferromagnetism)](https://github.com/Galactic-Code-Developers/DPPH-Magic-Angle-Ferromagnetism/releases)
-[![Last commit](https://img.shields.io/github/last-commit/Galactic-Code-Developers/DPPH-Magic-Angle-Ferromagnetism)](https://github.com/Galactic-Code-Developers/DPPH-Magic-Angle-Ferromagnetism/commits)
+
+---
+
+# Data Descriptor
+
+## Title
+**Ferromagnetic Phase Transition of DPPH Induced by a Helical Magnetic Field**
 
 ---
 
@@ -14,11 +21,12 @@ Antonios Konstantaras
 Iraklis Rigakis  
 Emmanuel Antoniadakis  
 
+---
+
 ## Affiliation
 
 School of Engineering  
-Department of Electronic Engineering  
-Computer Technology Informatics and Electronic Devices Laboratory  
+Department of Electronic Engineering, Computer Technology Informatics & Electronic Devices Laboratory  
 Hellenic Mediterranean University  
 Chania, Greece  
 
@@ -26,61 +34,36 @@ Chania, Greece
 
 ## Abstract
 
-This repository contains the full manuscript, experimental data, and supplementary material for a study investigating the magnetic response of a DPPH (2,2-diphenyl-1-picrylhydrazyl) sample under a specially designed helical magnetic field configuration at the magic angle (~54.74°).
+This repository provides the complete experimental, computational, and structural dataset associated with the investigation of magnetic behavior in DPPH under a helical magnetic field configuration at the magic angle (~54.74°).
 
-The experimental results demonstrate a significant and reproducible deviation from expected paramagnetic behavior, suggesting a transition toward weak ferromagnetism under the applied field geometry.
+The dataset documents a reproducible deviation from conventional paramagnetic response, indicating the emergence of weak ferromagnetic characteristics under controlled field geometry.
 
-The repository is structured to ensure full reproducibility of the reported results, including raw measurement data, supplementary derivations, and design files for the experimental apparatus.
-
----
-
-## Repository Structure
-```
-DPPH-Magic-Angle-Ferromagnetism/
-│
-├── figures/
-├── data/
-├── supplementary/
-├── cad/
-├── code/
-│
-├── README.md
-├── LICENSE
-└── CITATION.cff
-```
----
-
-## Reproducibility
-
-To compile the manuscript:
-
-    pdflatex main.tex
-
-All data and materials required to reproduce the experiment are included in this repository.
+All components required for independent verification—including raw measurements, processed data, simulation code, and apparatus design—are included.
 
 ---
 
-## Data Availability
+## Data Records
 
-All data supporting the findings of this study are included within this repository.
-
-A Zenodo DOI will be generated upon release for long-term archival and citation.
+data/
+├── raw_measurements.csv  
+├── processed_data.csv  
 
 ---
 
-### Code
+## Code Availability
 
-- `code/python_visualization/magic_angle_helical_field_visualization.py` — Python script for reproducing the helical magnetic field visualization
-- `code/python_visualization/magic_angle_helical_field_data_export.py` — Python script for exporting helical field line and magnetic field vector data to CSV for plotting and supplementary analysis
+code/python_visualization/  
+├── magic_angle_helical_field_visualization.py  
+├── magic_angle_helical_field_data_export.py  
 
 ---
 
 ## Citation
 
-Please cite this work using the metadata in `CITATION.cff` or the Zenodo DOI (once available).
+Markoulakis, E., Chatzakis, J., Konstantaras, A., Rigakis, I., & Antoniadakis, E. (2026). *Ferromagnetic Phase Transition of DPPH Induced by a Helical Magnetic Field* (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19413155  
 
 ---
 
 ## License
 
-This project is licensed under the MIT License — see the LICENSE file for details.
+MIT License
