@@ -1,15 +1,45 @@
 cff-version: 1.2.0
 title: "Ferromagnetic Phase Transition of DPPH Induced by a Helical Magnetic Field"
+message: "If you use this work, please cite it using the metadata below."
+type: article
+
 authors:
   - family-names: Markoulakis
     given-names: Emmanouil
+    affiliation: Hellenic Mediterranean University
   - family-names: Chatzakis
     given-names: John
+    affiliation: Hellenic Mediterranean University
   - family-names: Konstantaras
     given-names: Antonios
+    affiliation: Hellenic Mediterranean University
   - family-names: Rigakis
     given-names: Iraklis
+    affiliation: Hellenic Mediterranean University
   - family-names: Antoniadakis
     given-names: Emmanuel
-date-released: 2026
+    affiliation: Hellenic Mediterranean University
+
+keywords:
+  - ferromagnetism
+  - DPPH
+  - paramagnetism
+  - magic angle
+  - spin alignment
+  - helical magnetic field
+  - quantum spin control
+
 license: MIT
+
+repository-code: https://github.com/Galactic-Code-Developers/DPPH-Magic-Angle-Ferromagnetism
+
+abstract: >
+  We report the results and instrument configuration of an experiment in which
+  a DPPH sample was transitioned from a paramagnetic to a weakly ferromagnetic
+  state at room temperature using a helical magnetic field at the magic angle.
+  The observed magnetic response exceeds theoretical expectations by several
+  orders of magnitude, suggesting a significant modification of spin alignment
+  behavior under structured magnetic fields.
+
+version: 1.0.0
+date-released: 2026-04-04
