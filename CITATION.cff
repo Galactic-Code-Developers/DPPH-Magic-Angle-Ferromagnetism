@@ -1,45 +1,38 @@
 cff-version: 1.2.0
-title: "Ferromagnetic Phase Transition of DPPH Induced by a Helical Magnetic Field"
 message: "If you use this work, please cite it using the metadata below."
+title: "Ferromagnetic Phase Transition of DPPH Induced by a Helical Magnetic Field"
 type: article
 
 authors:
-  - family-names: Markoulakis
-    given-names: Emmanouil
-    affiliation: Hellenic Mediterranean University
-  - family-names: Chatzakis
-    given-names: John
-    affiliation: Hellenic Mediterranean University
-  - family-names: Konstantaras
-    given-names: Antonios
-    affiliation: Hellenic Mediterranean University
-  - family-names: Rigakis
-    given-names: Iraklis
-    affiliation: Hellenic Mediterranean University
-  - family-names: Antoniadakis
-    given-names: Emmanuel
-    affiliation: Hellenic Mediterranean University
+  - family-names: "Markoulakis"
+    given-names: "Emmanouil"
+    affiliation: "Hellenic Mediterranean University"
+  - family-names: "Chatzakis"
+    given-names: "John"
+    affiliation: "Hellenic Mediterranean University"
+  - family-names: "Konstantaras"
+    given-names: "Antonios"
+    affiliation: "Hellenic Mediterranean University"
+  - family-names: "Rigakis"
+    given-names: "Iraklis"
+    affiliation: "Hellenic Mediterranean University"
+  - family-names: "Antoniadakis"
+    given-names: "Emmanuel"
+    affiliation: "Hellenic Mediterranean University"
+
+abstract: "This repository contains the LaTeX manuscript, experimental data, CAD designs, and Python scripts supporting the study of a ferromagnetic phase transition in DPPH induced by a helical magnetic field at the magic angle."
 
 keywords:
-  - ferromagnetism
-  - DPPH
-  - paramagnetism
-  - magic angle
-  - spin alignment
-  - helical magnetic field
-  - quantum spin control
+  - "ferromagnetism"
+  - "DPPH"
+  - "paramagnetism"
+  - "magic angle"
+  - "spin alignment"
+  - "helical magnetic field"
+  - "quantum spin control"
 
-license: MIT
-
-repository-code: https://github.com/Galactic-Code-Developers/DPPH-Magic-Angle-Ferromagnetism
-
-abstract: >
-  We report the results and instrument configuration of an experiment in which
-  a DPPH sample was transitioned from a paramagnetic to a weakly ferromagnetic
-  state at room temperature using a helical magnetic field at the magic angle.
-  The observed magnetic response exceeds theoretical expectations by several
-  orders of magnitude, suggesting a significant modification of spin alignment
-  behavior under structured magnetic fields.
-
-version: 1.0.0
+license: "MIT"
+version: "1.0.0"
 date-released: 2026-04-04
+url: "https://github.com/Galactic-Code-Developers/DPPH-Magic-Angle-Ferromagnetism"
+repository-code: "https://github.com/Galactic-Code-Developers/DPPH-Magic-Angle-Ferromagnetism"
